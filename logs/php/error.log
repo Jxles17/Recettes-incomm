@@ -1,0 +1,22 @@
+[17-Oct-2024 14:07:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function have_rows() in C:\Users\jules\Local Sites\incom-recettes\app\public\wp-content\themes\theme\front-page.php:19
+Stack trace:
+#0 C:\Users\jules\Local Sites\incom-recettes\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\jules\Local Sites\incom-recettes\app\public\wp-blog-header.php(19): require_once('C:\\Users\\jules\\...')
+#2 C:\Users\jules\Local Sites\incom-recettes\app\public\index.php(17): require('C:\\Users\\jules\\...')
+#3 {main}
+  thrown in C:\Users\jules\Local Sites\incom-recettes\app\public\wp-content\themes\theme\front-page.php on line 19
+[17-Oct-2024 14:08:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function have_rows() in C:\Users\jules\Local Sites\incom-recettes\app\public\wp-content\themes\theme\front-page.php:19
+Stack trace:
+#0 C:\Users\jules\Local Sites\incom-recettes\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\jules\Local Sites\incom-recettes\app\public\wp-blog-header.php(19): require_once('C:\\Users\\jules\\...')
+#2 C:\Users\jules\Local Sites\incom-recettes\app\public\index.php(17): require('C:\\Users\\jules\\...')
+#3 {main}
+  thrown in C:\Users\jules\Local Sites\incom-recettes\app\public\wp-content\themes\theme\front-page.php on line 19
+[17-Oct-2024 14:20:34 UTC] PHP Warning:  file_put_contents(C:\Users\jules\Local Sites\incom-recettes\app\public/wp-content/themes/theme/acf-json/group_67111ca71609d.json): Failed to open stream: No such file or directory in C:\Users\jules\Local Sites\incom-recettes\app\public\wp-content\plugins\advanced-custom-fields-pro\includes\local-json.php on line 448
+[17-Oct-2024 20:09:19 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\jules\Local Sites\incom-recettes\app\public\wp-content\themes\theme\functions.php on line 209
+[17-Oct-2024 20:09:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\jules\Local Sites\incom-recettes\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[17-Oct-2024 20:09:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\jules\Local Sites\incom-recettes\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[17-Oct-2024 20:18:07 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\jules\Local Sites\incom-recettes\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[17-Oct-2024 21:03:00 UTC] PHP Warning:  file_put_contents(C:\Users\jules\Local Sites\incom-recettes\app\public/wp-content/themes/theme/acf-json/group_67111ca71609d.json): Failed to open stream: No such file or directory in C:\Users\jules\Local Sites\incom-recettes\app\public\wp-content\plugins\advanced-custom-fields-pro\includes\local-json.php on line 448
+[17-Oct-2024 21:07:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\jules\Local Sites\incom-recettes\app\public\wp-content\plugins\remove-footer-credit\remove-footer-credit.php on line 209
+[17-Oct-2024 21:07:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\jules\Local Sites\incom-recettes\app\public\wp-content\plugins\remove-footer-credit\remove-footer-credit.php on line 209
